@@ -1,0 +1,1 @@
+#include <iostream>/nusing namespace std;int main() {cout<<(9+3)<<endl<<;return0;}
